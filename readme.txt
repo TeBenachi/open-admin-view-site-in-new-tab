@@ -3,6 +3,7 @@ Plugin URI:        https://github.com/TeBenachi/open-admin-view-site-in-new-tab
 Description:       Open admin view site link in a new tab
 Version:           1.0.0
 Requires at least: 5.2
+Tested up to:      5.6
 Requires PHP:      7.4
 Author:            TeBenachi
 Author URI:        https://profiles.wordpress.org/utz119/
@@ -29,6 +30,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 Open Admin View Site in New Tab plugin opens a new tab when clicking on the view site link on the admin menu bar. It allows you to view the site quickly while updating. 
 
 == Changelog ==
+
+= 1.0.1 - December 22, 2020 =
+* Change function names
+* 'Tested up to' value
 
 = 1.0.0 - December 22, 2020 =
 * Initial release
