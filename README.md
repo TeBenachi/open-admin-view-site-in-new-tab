@@ -6,4 +6,4 @@ It's convenient while updating or developing your WordPress website.
 
 
 #### License
-GPL v2 or later
+GPL v2 or later https://www.gnu.org/licenses/gpl-2.0.html
